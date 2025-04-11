@@ -1,0 +1,90 @@
+{
+  "siteInfo": {
+    "name": "k Jewels",
+    "tagline": "Timeless Elegance, Modern Design",
+    "description": "Handcrafted jewelry that celebrates life's precious moments",
+    "contactEmail": "contact@kjewels.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Elegance Ave, Fashion District, NY 10001",
+    "socialMedia": {
+      "instagram": "kjewels",
+      "facebook": "kJewelsOfficial",
+      "pinterest": "kjewels"
+    }
+  },
+  "hero": {
+    "title": "Elegance in Every Detail",
+    "subtitle": "Discover our handcrafted collection",
+    "image": "/images/hero-img.jpg",
+    "cta": "Shop Collection"
+  },
+  "featuredProducts": [
+    {
+      "id": "prod001",
+      "name": "Diamond Lotus Pendant",
+      "description": "Elegant 18k gold pendant with 0.5ct diamond center",
+      "price": 1299.99,
+      "image": "/images/pendant.jpg",
+      "category": "necklaces",
+      "bestseller": true
+    },
+    {
+      "id": "prod002",
+      "name": "Sapphire Halo Ring",
+      "description": "1.2ct blue sapphire surrounded by brilliant diamonds",
+      "price": 2499.99,
+      "image": "/images/ring.jpg",
+      "category": "rings",
+      "bestseller": true
+    },
+    {
+      "id": "prod003",
+      "name": "Pearl Drop Earrings",
+      "description": "South Sea pearls with 14k gold fixtures",
+      "price": 899.99,
+      "image": "/images/earrings.jpg",
+      "category": "earrings",
+      "bestseller": false
+    },
+    {
+      "id": "prod004",
+      "name": "Tennis Bracelet",
+      "description": "3ct total weight diamond tennis bracelet in white gold",
+      "price": 3899.99,
+      "image": "/images/bracelet.jpg",
+      "category": "bracelets",
+      "bestseller": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat001",
+      "name": "Rings",
+      "image": "/images/category-rings.jpg",
+      "itemCount": 42
+    },
+    {
+      "id": "cat002",
+      "name": "Necklaces",
+      "image": "/images/category-necklaces.jpg",
+      "itemCount": 38
+    },
+    {
+      "id": "cat003",
+      "name": "Earrings",
+      "image": "/images/category-earrings.jpg",
+      "itemCount": 45
+    },
+    {
+      "id": "cat004",
+      "name": "Bracelets",
+      "image": "/images/category-bracelets.jpg",
+      "itemCount": 29
+    }
+  ],
+  "story": {
+    "heading": "Our Story",
+    "content": "Founded in 2010, k Jewels began as a small studio dedicated to crafting unique, handmade pieces. Our founder, kapil singh, combined his passion for traditional craftsmanship with modern design sensibilities. Today, we continue to create jewelry that tells a story and celebrates life's precious moments.",
+    "image": "/images/workshop.jpg"
+  }
+}
