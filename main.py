@@ -27,7 +27,7 @@ async def get_posts():
     import json
     with open("jsonfiles/blog.json") as f:
         data = json.load(f)
-    return {"posts": data["featuredProducts"]}
+    return data
 
 
 if __name__ == "__main__":
