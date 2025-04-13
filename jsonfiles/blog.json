@@ -1,90 +1,214 @@
 {
   "siteInfo": {
-    "name": "k Jewels",
+    "name": "FMGE Adda",
     "tagline": "Timeless Elegance, Modern Design",
     "description": "Handcrafted jewelry that celebrates life's precious moments",
-    "contactEmail": "contact@kjewels.com",
+    "contactEmail": "contact@FMGEAdda.com",
     "phone": "+1 (555) 123-4567",
     "address": "123 Elegance Ave, Fashion District, NY 10001",
     "socialMedia": {
-      "instagram": "kjewels",
-      "facebook": "kJewelsOfficial",
-      "pinterest": "kjewels"
+      "instagram": "FMGE Adda",
+      "facebook": "FMGE AddaOfficial",
+      "pinterest": "FMGE Adda"
     }
   },
   "hero": {
-    "title": "Elegance in Every Detail",
-    "subtitle": "Discover our handcrafted collection",
-    "image": "/images/hero-img.jpg",
+    "title": "FMGE 2025: Your Gateway to Medical Practice in India",
+    "subtitle": "Stay ahead with the latest updates on FMGE 2025. Access expert guidance, syllabus, exam pattern, key dates, and preparation tips — all in one place.",
+    "image": "/images/hero-img.webp",
     "cta": "Shop Collection"
   },
-  "featuredProducts": [
+  "blogs": [
     {
-      "id": "prod001",
-      "name": "Diamond Lotus Pendant",
-      "description": "Elegant 18k gold pendant with 0.5ct diamond center",
-      "price": 1299.99,
-      "image": "/images/pendant.jpg",
-      "category": "necklaces",
-      "bestseller": true
+      "id": "blog001",
+      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+      "description": "The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. ",
+      "image": "/images/blog-01.webp"
     },
     {
-      "id": "prod002",
-      "name": "Sapphire Halo Ring",
-      "description": "1.2ct blue sapphire surrounded by brilliant diamonds",
-      "price": 2499.99,
-      "image": "/images/ring.jpg",
-      "category": "rings",
-      "bestseller": true
+      "id": "blog002",
+      "title": "12 Jewellery Mistakes We Wish You'd Stop Making",
+      "description": "As an Australian jeweller with decades of experience, I've seen all kinds of jewellery mistakes - and I bet...",
+      "image": "/images/blog-02.webp"
     },
     {
-      "id": "prod003",
-      "name": "Pearl Drop Earrings",
-      "description": "South Sea pearls with 14k gold fixtures",
-      "price": 899.99,
-      "image": "/images/earrings.jpg",
-      "category": "earrings",
-      "bestseller": false
+      "id": "blog003",
+      "title": "How to Properly Clean Silver Jewellery",
+      "description": "Imagine this: you're getting ready for a special occasion. Your outfit is perfect, your makeup is...",
+      "image": "/images/blog-03.webp"
     },
     {
-      "id": "prod004",
-      "name": "Tennis Bracelet",
-      "description": "3ct total weight diamond tennis bracelet in white gold",
-      "price": 3899.99,
-      "image": "/images/bracelet.jpg",
-      "category": "bracelets",
-      "bestseller": true
+      "id": "blog004",
+      "title": "Jewellery Styling Guide: How to Refresh & Wear Your Collection",
+      "description": "Want to elevate your jewellery styling game? Whether you're building the perfect jewellery collection...",
+      "image": "/images/blog-04.webp"
+    },
+    {
+      "id": "blog005",
+      "title": "12 Jewellery Mistakes We Wish You'd Stop Making",
+      "description": "As an Australian jeweller with decades of experience, I've seen all kinds of jewellery mistakes - and I bet...",
+      "image": "/images/blog-05.webp"
+    },
+    {
+      "id": "blog006",
+      "title": "How to Properly Clean Silver Jewellery",
+      "description": "Imagine this: you're getting ready for a special occasion. Your outfit is perfect, your makeup is...",
+      "image": "/images/blog-06.webp"
     }
   ],
-  "categories": [
-    {
-      "id": "cat001",
-      "name": "Rings",
-      "image": "/images/category-rings.jpg",
-      "itemCount": 42
+  "blog001": {
+    "id": "fmge-2025",
+    "meta": {
+      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+      "description": "The official notification for the FMGE June 2025 exam has been released. The application forms will be available from April 2025, with the last date to apply being May 2025.",
+      "permalink": "fmgeadda.com/fmge-exam",
+      "keywords": [
+        "FMGE Exam 2025",
+        "FMGE Application Form 2025",
+        "FMGE Syllabus 2025",
+        "FMGE Exam Result 2025"
+      ]
     },
-    {
-      "id": "cat002",
-      "name": "Necklaces",
-      "image": "/images/category-necklaces.jpg",
-      "itemCount": 38
-    },
-    {
-      "id": "cat003",
-      "name": "Earrings",
-      "image": "/images/category-earrings.jpg",
-      "itemCount": 45
-    },
-    {
-      "id": "cat004",
-      "name": "Bracelets",
-      "image": "/images/category-bracelets.jpg",
-      "itemCount": 29
+    "content": {
+      "image": "/images/blog-01.webp",
+      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+      "intro": "FMGE Exam 2025: The FMGE (Foreign Medical Graduate Examination) is a licensing exam in India conducted for Indian citizens or Overseas Citizens of India (OCI) who have completed their primary medical qualification from an institution outside India and want to practice medicine in the country. The National Board of Examinations (NBE) conducts the exam twice a year. <br/> The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. Candidates must register themselves on the official website before the application deadline. ",
+      "examHighlights": [
+        ["name", "Foreign Medical Graduate Examination (FMGE)"],
+        ["conductingBody", "National Board of Examinations (NBE)"],
+        ["level", "National qualifying examination"],
+        ["frequency", "Twice a year"],
+        ["mode", "Online, Computer-Based Test (CBT)"],
+        ["duration", "300 minutes (5 hours)"],
+        ["syllabus", "Pre-clinical, para-clinical, and clinical subjects"],
+        ["pattern", "MCQs, 1 mark per correct answer, no negative marking"],
+        ["language", "English"],
+        ["fee", "INR 7,080 (including GST)"],
+        ["eligibility", "Medical graduates from foreign institutions"],
+        ["testCities", 57],
+        ["helpDesk", "www.natboard.edu.in"]
+      ],
+      "exam": {
+        "heading": "FMGE 2025 Exam ",
+        "description": "The Foreign Medical Graduate Examination (FMGE) is a mandatory licensure exam in India for Indian citizens and Overseas Citizens of India (OCIs) who have earned their medical degrees from institutions outside of India and wish to practice medicine within the country. It's a screening test designed to ensure that these graduates meet the required standards and competencies to practice as medical professionals in India. <br/> The application forms for the exam are expected to be released in 25 April 2025 and will be available till May 2025. The board will release the admit cards a few days before the exam on its official website <a href='www.natboard.edu.in'>www.natboard.edu.in</a>. Candidates can access and download their admit cards from the official website using their login credentials. <br/>The exam is expected to be held in July 2025, and the result will be announced in August 2025 by the National Board of Examinations. Applicants must score a minimum of 150 marks to qualify for receiving the passing certificate. After this, the students need to apply for provisional registration with the National Medical Council to practice medicine, followed by an internship in any hospital or medical college. Once the internship is completed, students can apply for permanent registration with the NMC or the State Medical Council."
+      },
+      "eligibilityCriteria": {
+        "heading": "FMGE 2025 Eligibility Criteria",
+        "description": "As per the guidelines issued by the NBE, the following is the eligibility criteria for the FMGE exam:",
+        "points": [
+          "Candidates must be either an Indian national or an Overseas Citizen of India (OCI).",
+          "They must possess a primary medical qualification that is equivalent to an MBBS degree in the country where they obtained it. ",
+          "The medical degree must be from a recognized institution listed in the WHO Directory of Medical Institutions or from institutions recognized by the relevant authorities of the country.",
+          "Candidates must have obtained the eligibility certificate from the NMC if required.",
+          "The result of the final examination for the primary medical qualification must be declared on or before the prescribed cut-off date for a particular session of the FMG Examination. "
+        ]
+      },
+      "application_form": {
+        "heading": "FMGE 2025 Application Form ",
+        "description": "The FMGE 2025 application forms will be released by the NBE on its official website in April 2025 (Tentative). Candidates must complete and submit the application form before May 2025. Applicants must also note that the application form is considered valid only after the successful payment of the application fee. The application fee is INR 7080, with no relaxation for reserved categories. Candidates can pay the application fee through a debit or credit card, UPI, or net banking."
+      },
+      "fee": {
+        "heading": "FMGE Exam 2025 Fee",
+        "description": "The FMGE 2025 fee structure, as defined by the NBE in the official notification, is as follows: ",
+        "table": [
+          ["CATEGORY", "CATEGORY"],
+          ["Base Exam Fee", "INR 6,000"],
+          ["GST (18%)", "INR 1,080"],
+          ["Total Fee", "INR 7,080"],
+          ["Payment Method", "Online via credit/debit cards or net banking"]
+        ]
+      },
+      "pattern": {
+        "heading": "FMGE Exam 2025 Pattern and Marking Scheme",
+        "description": "The FMGE exam is a computer-based examination with 300 multiple-choice questions from clinical, pre-clinical, and para-clinical subjects as per the MBBS curriculum. Each correct question will be awarded one mark, with no negative marks deducted for wrong answers. Students will not be awarded any marks for unattempted questions. ",
+        "table": [
+          ["Parameters", "Details"],
+          ["Mode of Examination", "Online (Computer-Based Test)"],
+          ["Type of Questions", "Multiple Choice Questions (MCQs)"],
+          [
+            "Marking Scheme",
+            "+1 for every correct answer, no negative marking"
+          ],
+          [
+            "Duration",
+            "5 hours (300 minutes), divided into two parts: Part A: 2 hours 30 minutes, Part B: 2 hours 30 minutes"
+          ],
+          ["Total Marks", "300"]
+        ]
+      },
+      "syllabus": {
+        "heading": "FMGE 2025 Syllabus",
+        "description": "The FMGE exam includes pre-clinical, clinical and para-clinical subjects from the MBBS curriculum. The exam will be conducted in two sections, with each section consisting of questions from different seubjects. The following is the subject-wise distribution of marks : ",
+        "table": [
+          {
+            "title": "Pre and Para Clinical Subjects",
+            "table_content": [
+              ["SUBJECT", "NUMBER OF QUESTIONS ASKED/ TOTAL MARKS"],
+              ["Anatomy", "17"],
+              ["Physiology", "17"],
+              ["Biochemistry", "17"],
+              ["Pathology", "13"],
+              ["Microbiology", "13"],
+              ["Pharmacology", "13"],
+              ["Forensic Medicine", "10"],
+              ["Total", "100"]
+            ]
+          }
+        ]
+      },
+      "admit_card": {
+        "heading": "FMGE 2025 Admit Card: ",
+        "description": "The FMGE 2025 admit cards will be issued by the National Board of Examinations on its official website a few days before the examination. The hall ticket is expected to be released in July 2025. Candidates must download the admit card from the official NBEMS website by logging in with their application number and password. Applicants are advised to carry a printout of their admit cards along with other necessary documents to the examination centre, as they will not be allowed to enter the exam center without the admit card."
+      },
+      "answer_key": {
+        "heading": "FMGE 2025 Answer Key ",
+        "descriptio": "The FMGE 2025 answer key is released by the National Board of Examinations (NBE) after the exam. It helps candidates estimate their scores before the official results are published. Candidates can download the answer key from the official website of NBE at www.natboard.edu.in. Additionally, candidates can raise objections against the answer key within the specified timeframe, following the guidelines provided by NBE. ",
+        "table": [
+          ["EVENTS", "DATES"],
+          ["FMGE 2025 Exam Date", "July 2025"],
+          ["Release of Answer Key", "Last week of July 2025"],
+          ["FMGE Result 2025", "August 2025"]
+        ]
+      },
+      "result": {
+        "heading": "FMGE 2025 Result",
+        "description": "The FMGE 2025 results will be announced by the National Board of Examinations in the expected month of August*. Candidates can check and download their results in PDF format from the official website, www.natboard.edu.in. The FMGE 2025 results will include the overall scores and qualifying status of the candidates. Also, qualifying candidates will be eligible to collect their pass certificates after completing the verification process."
+      },
+      "cut_off": {
+        "heading": "FMGE 2025 Cut-off",
+        "description": "As notified by the board, the FMGE exam has a uniform cut-off every year. It remains unchanged from previous years, ensuring a standard evaluation process. Candidates must score at least 50% of the total marks to qualify for provisional registration. The exam is of 300 marks, out of which the candidate must score 150 marks to qualify. The cut-off is the same for all candidates, with no relaxation for reserved categories. Qualifying the cut-off is mandatory to obtain the FMGE pass certificate and register with the Medical Council of India (MCI) or State Medical Councils."
+      },
+      "preparation_books": {
+        "heading": "Preparation Tips & Books for FMGE 2025",
+        "points": [
+          "Students must familiarize themselves with the FMGE syllabus, which includes pre-clinical, para-clinical, and clinical subjects as per the MBBS curriculum.",
+          "It is advised for the candidates to divide their time effectively between subjects, focusing more on weaker areas. ",
+          "Candidates need to solve previous years' question papers and mock tests to understand the exam pattern and improve their time management.",
+          "Students must prioritize subjects that carry significant weightage like Pathology, Pharmacology, Community Medicine, and Medicine",
+          "Creating quick notes for quick revision of important concepts is also advised.",
+          "Aspirants must revise frequently to retain information and strengthen their understanding.",
+          "Students must also ensure proper sleep, a balanced diet, and regular breaks to stay mentally and physically fit."
+        ]
+      },
+      "recommendedBooks": {
+        "heading": "Recommended Books for FMGE 2025: ",
+        "table": [
+          ["Anatomy", "Dr. Rajesh Kaushal"],
+          ["Physiology", "Dr. Soumen Manna"],
+          ["Biochemistry", "Rebecca James"],
+          ["Pathology", "Dr. Sparsh Gupta"],
+          ["Pharmacology", "Dr. Gobind Rai Garg and Dr. Sparsh Gupta"],
+          ["Microbiology", "Apurva Shukla"],
+          ["Community Medicine", "Dr. Vivek Jain"],
+          ["Medicine", "Dr. Deepak Marwah"],
+          ["Surgery", "Dr. Pritesh Singh"],
+          ["Obstetrics and Gynecology", "Sakshi Arora"],
+          ["Pediatrics", "Dr. Parth S Dhanani"],
+          ["Orthopedics", "Dr. Apurv Mehra"],
+          ["Radiology", "Rajat Jain"],
+          ["Psychiatry", "Dr. Praveen Tripathi"]
+        ]
+      }
     }
-  ],
-  "story": {
-    "heading": "Our Story",
-    "content": "Founded in 2010, k Jewels began as a small studio dedicated to crafting unique, handmade pieces. Our founder, kapil singh, combined his passion for traditional craftsmanship with modern design sensibilities. Today, we continue to create jewelry that tells a story and celebrates life's precious moments.",
-    "image": "/images/workshop.jpg"
   }
 }
