@@ -1,326 +1,348 @@
 {
-  "siteInfo": {
-    "name": "FMGE Adda",
-    "tagline": "Timeless Elegance, Modern Design",
-    "description": "Handcrafted jewelry that celebrates life's precious moments",
-    "contactEmail": "contact@FMGEAdda.com",
-    "phone": "+1 (555) 123-4567",
-    "address": "123 Elegance Ave, Fashion District, NY 10001",
-    "socialMedia": {
-      "instagram": "FMGE Adda",
-      "facebook": "FMGE AddaOfficial",
-      "pinterest": "FMGE Adda"
-    }
-  },
-  "hero": {
-    "title": "FMGE 2025: Your Gateway to Medical Practice in India",
-    "subtitle": "Stay ahead with the latest updates on FMGE 2025. Access expert guidance, syllabus, exam pattern, key dates, and preparation tips — all in one place.",
-    "image": "/images/hero-img.webp",
-    "cta": "Shop Collection"
-  },
-  "blogs": [
-    {
-      "id": "fmge-exam",
-      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
-      "description": "The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. ",
-      "image": "/images/blog-01.webp"
+    "siteInfo": {
+        "name": "FMGE Adda",
+        "tagline": "Timeless Elegance, Modern Design",
+        "description": "Handcrafted jewelry that celebrates life's precious moments",
+        "contactEmail": "contact@FMGEAdda.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "123 Elegance Ave, Fashion District, NY 10001",
+        "socialMedia": {
+            "instagram": "FMGE Adda",
+            "facebook": "FMGE AddaOfficial",
+            "pinterest": "FMGE Adda"
+        }
     },
-    {
-      "id": "fmge-result",
-      "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
-      "description": "The FMGE  exam will be scheduled in July 2025, and the results are  set to be announced in August 2025 on NBE's official website",
-      "image": "/images/blog-02.webp"
+    "hero": {
+        "title": "FMGE 2025: Your Gateway to Medical Practice in India",
+        "subtitle": "Stay ahead with the latest updates on FMGE 2025. Access expert guidance, syllabus, exam pattern, key dates, and preparation tips — all in one place.",
+        "image": "/images/hero-img.webp",
+        "cta": "Shop Collection"
     },
-    {
-      "id": "fmge-exam-date",
-      "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
-      "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held tentatively on 10 July 2025.",
-      "image": "/images/blog-03.webp"
-    },
-  ],
-  "fmge-exam": {
-    "id": "fmge-2025",
-    "meta": {
-      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
-      "description": "The official notification for the FMGE June 2025 exam has been released. The application forms will be available from April 2025, with the last date to apply being May 2025.",
-      "permalink": "fmgeadda.com/fmge-exam",
-      "keywords": [
-        "FMGE Exam 2025",
-        "FMGE Application Form 2025",
-        "FMGE Syllabus 2025",
-        "FMGE Exam Result 2025"
-      ]
-    },
-    "content": {
-      "image": "/images/blog-01.webp",
-      "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
-      "intro": "FMGE Exam 2025: The FMGE (Foreign Medical Graduate Examination) is a licensing exam in India conducted for Indian citizens or Overseas Citizens of India (OCI) who have completed their primary medical qualification from an institution outside India and want to practice medicine in the country. The National Board of Examinations (NBE) conducts the exam twice a year. /n The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. Candidates must register themselves on the official website before the application deadline. ",
-      "examHighlights": [
-        ["Feature", "Details"],
-        ["name", "Foreign Medical Graduate Examination (FMGE)"],
-        ["conductingBody", "National Board of Examinations (NBE)"],
-        ["level", "National qualifying examination"],
-        ["frequency", "Twice a year"],
-        ["mode", "Online, Computer-Based Test (CBT)"],
-        ["duration", "300 minutes (5 hours)"],
-        ["syllabus", "Pre-clinical, para-clinical, and clinical subjects"],
-        ["pattern", "MCQs, 1 mark per correct answer, no negative marking"],
-        ["language", "English"],
-        ["fee", "INR 7,080 (including GST)"],
-        ["eligibility", "Medical graduates from foreign institutions"],
-        ["testCities", 57],
-        ["helpDesk", "www.natboard.edu.in"]
-      ],
-      "exam": {
-        "heading": "FMGE 2025 Exam ",
-        "description": "The Foreign Medical Graduate Examination (FMGE) is a mandatory licensure exam in India for Indian citizens and Overseas Citizens of India (OCIs) who have earned their medical degrees from institutions outside of India and wish to practice medicine within the country. It's a screening test designed to ensure that these graduates meet the required standards and competencies to practice as medical professionals in India. /n The application forms for the exam are expected to be released in 25 April 2025 and will be available till May 2025. The board will release the admit cards a few days before the exam on its official website www.natboard.edu.in. Candidates can access and download their admit cards from the official website using their login credentials. /n The exam is expected to be held in July 2025, and the result will be announced in August 2025 by the National Board of Examinations. Applicants must score a minimum of 150 marks to qualify for receiving the passing certificate. After this, the students need to apply for provisional registration with the National Medical Council to practice medicine, followed by an internship in any hospital or medical college. Once the internship is completed, students can apply for permanent registration with the NMC or the State Medical Council."
-      },
-      "eligibilityCriteria": {
-        "heading": "FMGE 2025 Eligibility Criteria",
-        "description": "As per the guidelines issued by the NBE, the following is the eligibility criteria for the FMGE exam:",
-        "points": [
-          "Candidates must be either an Indian national or an Overseas Citizen of India (OCI).",
-          "They must possess a primary medical qualification that is equivalent to an MBBS degree in the country where they obtained it. ",
-          "The medical degree must be from a recognized institution listed in the WHO Directory of Medical Institutions or from institutions recognized by the relevant authorities of the country.",
-          "Candidates must have obtained the eligibility certificate from the NMC if required.",
-          "The result of the final examination for the primary medical qualification must be declared on or before the prescribed cut-off date for a particular session of the FMG Examination. "
-        ]
-      },
-      "application_form": {
-        "heading": "FMGE 2025 Application Form ",
-        "description": "The FMGE 2025 application forms will be released by the NBE on its official website in April 2025 (Tentative). Candidates must complete and submit the application form before May 2025. Applicants must also note that the application form is considered valid only after the successful payment of the application fee. The application fee is INR 7080, with no relaxation for reserved categories. Candidates can pay the application fee through a debit or credit card, UPI, or net banking."
-      },
-      "fee": {
-        "heading": "FMGE Exam 2025 Fee",
-        "description": "The FMGE 2025 fee structure, as defined by the NBE in the official notification, is as follows: ",
-        "table": [
-          ["CATEGORY", "DETAILS"],
-          ["Base Exam Fee", "INR 6,000"],
-          ["GST (18%)", "INR 1,080"],
-          ["Total Fee", "INR 7,080"],
-          ["Payment Method", "Online via credit/debit cards or net banking"]
-        ]
-      },
-      "pattern": {
-        "heading": "FMGE Exam 2025 Pattern and Marking Scheme",
-        "description": "The FMGE exam is a computer-based examination with 300 multiple-choice questions from clinical, pre-clinical, and para-clinical subjects as per the MBBS curriculum. Each correct question will be awarded one mark, with no negative marks deducted for wrong answers. Students will not be awarded any marks for unattempted questions. ",
-        "table": [
-          ["Parameters", "Details"],
-          ["Mode of Examination", "Online (Computer-Based Test)"],
-          ["Type of Questions", "Multiple Choice Questions (MCQs)"],
-          [
-            "Marking Scheme",
-            "+1 for every correct answer, no negative marking"
-          ],
-          [
-            "Duration",
-            "5 hours (300 minutes), divided into two parts: Part A: 2 hours 30 minutes, Part B: 2 hours 30 minutes"
-          ],
-          ["Total Marks", "300"]
-        ]
-      },
-      "syllabus": {
-        "heading": "FMGE 2025 Syllabus",
-        "description": "The FMGE exam includes pre-clinical, clinical and para-clinical subjects from the MBBS curriculum. The exam will be conducted in two sections, with each section consisting of questions from different seubjects. The following is the subject-wise distribution of marks : ",
-        "table": [
-          {
-            "title": "Pre and Para Clinical Subjects",
-            "table_content": [
-              ["SUBJECT", "NUMBER OF QUESTIONS ASKED/ TOTAL MARKS"],
-              ["Anatomy", "17"],
-              ["Physiology", "17"],
-              ["Biochemistry", "17"],
-              ["Pathology", "13"],
-              ["Microbiology", "13"],
-              ["Pharmacology", "13"],
-              ["Forensic Medicine", "10"],
-              ["Total", "100"]
+    "blogs": [
+        {
+            "id": "fmge-exam",
+            "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+            "description": "The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. ",
+            "image": "/images/blog-01.webp"
+        },
+        {
+            "id": "fmge-result",
+            "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
+            "description": "The FMGE  exam will be scheduled in July 2025, and the results are  set to be announced in August 2025 on NBE's official website",
+            "image": "/images/blog-02.webp"
+        },
+        {
+            "id": "fmge-exam-date",
+            "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
+            "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held tentatively on 10 July 2025.",
+            "image": "/images/blog-03.webp"
+        }
+    ],
+    "fmge-exam": {
+        "id": "fmge-2025",
+        "meta": {
+            "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+            "description": "The official notification for the FMGE June 2025 exam has been released. The application forms will be available from April 2025, with the last date to apply being May 2025.",
+            "permalink": "fmgeadda.com/fmge-exam",
+            "keywords": [
+                "FMGE Exam 2025",
+                "FMGE Application Form 2025",
+                "FMGE Syllabus 2025",
+                "FMGE Exam Result 2025"
             ]
-          }
-        ]
-      },
-      "admit_card": {
-        "heading": "FMGE 2025 Admit Card: ",
-        "description": "The FMGE 2025 admit cards will be issued by the National Board of Examinations on its official website a few days before the examination. The hall ticket is expected to be released in July 2025. Candidates must download the admit card from the official NBEMS website by logging in with their application number and password. Applicants are advised to carry a printout of their admit cards along with other necessary documents to the examination centre, as they will not be allowed to enter the exam center without the admit card."
-      },
-      "answer_key": {
-        "heading": "FMGE 2025 Answer Key ",
-        "descriptio": "The FMGE 2025 answer key is released by the National Board of Examinations (NBE) after the exam. It helps candidates estimate their scores before the official results are published. Candidates can download the answer key from the official website of NBE at www.natboard.edu.in. Additionally, candidates can raise objections against the answer key within the specified timeframe, following the guidelines provided by NBE. ",
-        "table": [
-          ["EVENTS", "DATES"],
-          ["FMGE 2025 Exam Date", "July 2025"],
-          ["Release of Answer Key", "Last week of July 2025"],
-          ["FMGE Result 2025", "August 2025"]
-        ]
-      },
-      "result": {
-        "heading": "FMGE 2025 Result",
-        "description": "The FMGE 2025 results will be announced by the National Board of Examinations in the expected month of August*. Candidates can check and download their results in PDF format from the official website, www.natboard.edu.in. The FMGE 2025 results will include the overall scores and qualifying status of the candidates. Also, qualifying candidates will be eligible to collect their pass certificates after completing the verification process."
-      },
-      "cut_off": {
-        "heading": "FMGE 2025 Cut-off",
-        "description": "As notified by the board, the FMGE exam has a uniform cut-off every year. It remains unchanged from previous years, ensuring a standard evaluation process. Candidates must score at least 50% of the total marks to qualify for provisional registration. The exam is of 300 marks, out of which the candidate must score 150 marks to qualify. The cut-off is the same for all candidates, with no relaxation for reserved categories. Qualifying the cut-off is mandatory to obtain the FMGE pass certificate and register with the Medical Council of India (MCI) or State Medical Councils."
-      },
-      "preparation_books": {
-        "heading": "Preparation Tips & Books for FMGE 2025",
-        "points": [
-          "Students must familiarize themselves with the FMGE syllabus, which includes pre-clinical, para-clinical, and clinical subjects as per the MBBS curriculum.",
-          "It is advised for the candidates to divide their time effectively between subjects, focusing more on weaker areas. ",
-          "Candidates need to solve previous years' question papers and mock tests to understand the exam pattern and improve their time management.",
-          "Students must prioritize subjects that carry significant weightage like Pathology, Pharmacology, Community Medicine, and Medicine",
-          "Creating quick notes for quick revision of important concepts is also advised.",
-          "Aspirants must revise frequently to retain information and strengthen their understanding.",
-          "Students must also ensure proper sleep, a balanced diet, and regular breaks to stay mentally and physically fit."
-        ]
-      },
-      "recommendedBooks": {
-        "heading": "Recommended Books for FMGE 2025: ",
-        "table": [
-          ["SUBJECT", "RECOMMENDED BOOK"],
-          ["Anatomy", "Dr. Rajesh Kaushal"],
-          ["Physiology", "Dr. Soumen Manna"],
-          ["Biochemistry", "Rebecca James"],
-          ["Pathology", "Dr. Sparsh Gupta"],
-          ["Pharmacology", "Dr. Gobind Rai Garg and Dr. Sparsh Gupta"],
-          ["Microbiology", "Apurva Shukla"],
-          ["Community Medicine", "Dr. Vivek Jain"],
-          ["Medicine", "Dr. Deepak Marwah"],
-          ["Surgery", "Dr. Pritesh Singh"],
-          ["Obstetrics and Gynecology", "Sakshi Arora"],
-          ["Pediatrics", "Dr. Parth S Dhanani"],
-          ["Orthopedics", "Dr. Apurv Mehra"],
-          ["Radiology", "Rajat Jain"],
-          ["Psychiatry", "Dr. Praveen Tripathi"]
-        ]
-      }
-    }
-  },
-  "fmge-result": {
-    "id": "fmge-result",
-    "meta": {
-      "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
-      "description": "The FMGE  exam will be scheduled in July 2025, and the results are  set to be announced in August 2025 on NBE's official website",
-      "permalink": "fmgeadda.com/fmge-result",
-      "keywords": ["FMGE Exam 2025", "FMGE Exam Result 2025", "FMGE Result"]
+        },
+        "content": {
+            "image": "/images/blog-01.webp",
+            "title": "FMGE Exam 2025: Application form, Exam Date, Admit Card & Result",
+            "intro": "FMGE Exam 2025: The FMGE (Foreign Medical Graduate Examination) is a licensing exam in India conducted for Indian citizens or Overseas Citizens of India (OCI) who have completed their primary medical qualification from an institution outside India and want to practice medicine in the country. The National Board of Examinations (NBE) conducts the exam twice a year. /n The official notification for the FMGE June 2025 exam has been released by the board. The application forms will be available from April 2025, with the last date to apply being May 2025. Candidates must register themselves on the official website before the application deadline. ",
+            "examHighlights": [
+                ["Feature", "Details"],
+                ["name", "Foreign Medical Graduate Examination (FMGE)"],
+                ["conductingBody", "National Board of Examinations (NBE)"],
+                ["level", "National qualifying examination"],
+                ["frequency", "Twice a year"],
+                ["mode", "Online, Computer-Based Test (CBT)"],
+                ["duration", "300 minutes (5 hours)"],
+                [
+                    "syllabus",
+                    "Pre-clinical, para-clinical, and clinical subjects"
+                ],
+                [
+                    "pattern",
+                    "MCQs, 1 mark per correct answer, no negative marking"
+                ],
+                ["language", "English"],
+                ["fee", "INR 7,080 (including GST)"],
+                ["eligibility", "Medical graduates from foreign institutions"],
+                ["testCities", 57],
+                ["helpDesk", "www.natboard.edu.in"]
+            ],
+            "exam": {
+                "heading": "FMGE 2025 Exam ",
+                "description": "The Foreign Medical Graduate Examination (FMGE) is a mandatory licensure exam in India for Indian citizens and Overseas Citizens of India (OCIs) who have earned their medical degrees from institutions outside of India and wish to practice medicine within the country. It's a screening test designed to ensure that these graduates meet the required standards and competencies to practice as medical professionals in India. /n The application forms for the exam are expected to be released in 25 April 2025 and will be available till May 2025. The board will release the admit cards a few days before the exam on its official website www.natboard.edu.in. Candidates can access and download their admit cards from the official website using their login credentials. /n The exam is expected to be held in July 2025, and the result will be announced in August 2025 by the National Board of Examinations. Applicants must score a minimum of 150 marks to qualify for receiving the passing certificate. After this, the students need to apply for provisional registration with the National Medical Council to practice medicine, followed by an internship in any hospital or medical college. Once the internship is completed, students can apply for permanent registration with the NMC or the State Medical Council."
+            },
+            "eligibilityCriteria": {
+                "heading": "FMGE 2025 Eligibility Criteria",
+                "description": "As per the guidelines issued by the NBE, the following is the eligibility criteria for the FMGE exam:",
+                "points": [
+                    "Candidates must be either an Indian national or an Overseas Citizen of India (OCI).",
+                    "They must possess a primary medical qualification that is equivalent to an MBBS degree in the country where they obtained it. ",
+                    "The medical degree must be from a recognized institution listed in the WHO Directory of Medical Institutions or from institutions recognized by the relevant authorities of the country.",
+                    "Candidates must have obtained the eligibility certificate from the NMC if required.",
+                    "The result of the final examination for the primary medical qualification must be declared on or before the prescribed cut-off date for a particular session of the FMG Examination. "
+                ]
+            },
+            "application_form": {
+                "heading": "FMGE 2025 Application Form ",
+                "description": "The FMGE 2025 application forms will be released by the NBE on its official website in April 2025 (Tentative). Candidates must complete and submit the application form before May 2025. Applicants must also note that the application form is considered valid only after the successful payment of the application fee. The application fee is INR 7080, with no relaxation for reserved categories. Candidates can pay the application fee through a debit or credit card, UPI, or net banking."
+            },
+            "fee": {
+                "heading": "FMGE Exam 2025 Fee",
+                "description": "The FMGE 2025 fee structure, as defined by the NBE in the official notification, is as follows: ",
+                "table": [
+                    ["CATEGORY", "DETAILS"],
+                    ["Base Exam Fee", "INR 6,000"],
+                    ["GST (18%)", "INR 1,080"],
+                    ["Total Fee", "INR 7,080"],
+                    [
+                        "Payment Method",
+                        "Online via credit/debit cards or net banking"
+                    ]
+                ]
+            },
+            "pattern": {
+                "heading": "FMGE Exam 2025 Pattern and Marking Scheme",
+                "description": "The FMGE exam is a computer-based examination with 300 multiple-choice questions from clinical, pre-clinical, and para-clinical subjects as per the MBBS curriculum. Each correct question will be awarded one mark, with no negative marks deducted for wrong answers. Students will not be awarded any marks for unattempted questions. ",
+                "table": [
+                    ["Parameters", "Details"],
+                    ["Mode of Examination", "Online (Computer-Based Test)"],
+                    ["Type of Questions", "Multiple Choice Questions (MCQs)"],
+                    [
+                        "Marking Scheme",
+                        "+1 for every correct answer, no negative marking"
+                    ],
+                    [
+                        "Duration",
+                        "5 hours (300 minutes), divided into two parts: Part A: 2 hours 30 minutes, Part B: 2 hours 30 minutes"
+                    ],
+                    ["Total Marks", "300"]
+                ]
+            },
+            "syllabus": {
+                "heading": "FMGE 2025 Syllabus",
+                "description": "The FMGE exam includes pre-clinical, clinical and para-clinical subjects from the MBBS curriculum. The exam will be conducted in two sections, with each section consisting of questions from different seubjects. The following is the subject-wise distribution of marks : ",
+                "table": [
+                    {
+                        "title": "Pre and Para Clinical Subjects",
+                        "table_content": [
+                            [
+                                "SUBJECT",
+                                "NUMBER OF QUESTIONS ASKED/ TOTAL MARKS"
+                            ],
+                            ["Anatomy", "17"],
+                            ["Physiology", "17"],
+                            ["Biochemistry", "17"],
+                            ["Pathology", "13"],
+                            ["Microbiology", "13"],
+                            ["Pharmacology", "13"],
+                            ["Forensic Medicine", "10"],
+                            ["Total", "100"]
+                        ]
+                    }
+                ]
+            },
+            "admit_card": {
+                "heading": "FMGE 2025 Admit Card: ",
+                "description": "The FMGE 2025 admit cards will be issued by the National Board of Examinations on its official website a few days before the examination. The hall ticket is expected to be released in July 2025. Candidates must download the admit card from the official NBEMS website by logging in with their application number and password. Applicants are advised to carry a printout of their admit cards along with other necessary documents to the examination centre, as they will not be allowed to enter the exam center without the admit card."
+            },
+            "answer_key": {
+                "heading": "FMGE 2025 Answer Key ",
+                "descriptio": "The FMGE 2025 answer key is released by the National Board of Examinations (NBE) after the exam. It helps candidates estimate their scores before the official results are published. Candidates can download the answer key from the official website of NBE at www.natboard.edu.in. Additionally, candidates can raise objections against the answer key within the specified timeframe, following the guidelines provided by NBE. ",
+                "table": [
+                    ["EVENTS", "DATES"],
+                    ["FMGE 2025 Exam Date", "July 2025"],
+                    ["Release of Answer Key", "Last week of July 2025"],
+                    ["FMGE Result 2025", "August 2025"]
+                ]
+            },
+            "result": {
+                "heading": "FMGE 2025 Result",
+                "description": "The FMGE 2025 results will be announced by the National Board of Examinations in the expected month of August*. Candidates can check and download their results in PDF format from the official website, www.natboard.edu.in. The FMGE 2025 results will include the overall scores and qualifying status of the candidates. Also, qualifying candidates will be eligible to collect their pass certificates after completing the verification process."
+            },
+            "cut_off": {
+                "heading": "FMGE 2025 Cut-off",
+                "description": "As notified by the board, the FMGE exam has a uniform cut-off every year. It remains unchanged from previous years, ensuring a standard evaluation process. Candidates must score at least 50% of the total marks to qualify for provisional registration. The exam is of 300 marks, out of which the candidate must score 150 marks to qualify. The cut-off is the same for all candidates, with no relaxation for reserved categories. Qualifying the cut-off is mandatory to obtain the FMGE pass certificate and register with the Medical Council of India (MCI) or State Medical Councils."
+            },
+            "preparation_books": {
+                "heading": "Preparation Tips & Books for FMGE 2025",
+                "points": [
+                    "Students must familiarize themselves with the FMGE syllabus, which includes pre-clinical, para-clinical, and clinical subjects as per the MBBS curriculum.",
+                    "It is advised for the candidates to divide their time effectively between subjects, focusing more on weaker areas. ",
+                    "Candidates need to solve previous years' question papers and mock tests to understand the exam pattern and improve their time management.",
+                    "Students must prioritize subjects that carry significant weightage like Pathology, Pharmacology, Community Medicine, and Medicine",
+                    "Creating quick notes for quick revision of important concepts is also advised.",
+                    "Aspirants must revise frequently to retain information and strengthen their understanding.",
+                    "Students must also ensure proper sleep, a balanced diet, and regular breaks to stay mentally and physically fit."
+                ]
+            },
+            "recommendedBooks": {
+                "heading": "Recommended Books for FMGE 2025: ",
+                "table": [
+                    ["SUBJECT", "RECOMMENDED BOOK"],
+                    ["Anatomy", "Dr. Rajesh Kaushal"],
+                    ["Physiology", "Dr. Soumen Manna"],
+                    ["Biochemistry", "Rebecca James"],
+                    ["Pathology", "Dr. Sparsh Gupta"],
+                    [
+                        "Pharmacology",
+                        "Dr. Gobind Rai Garg and Dr. Sparsh Gupta"
+                    ],
+                    ["Microbiology", "Apurva Shukla"],
+                    ["Community Medicine", "Dr. Vivek Jain"],
+                    ["Medicine", "Dr. Deepak Marwah"],
+                    ["Surgery", "Dr. Pritesh Singh"],
+                    ["Obstetrics and Gynecology", "Sakshi Arora"],
+                    ["Pediatrics", "Dr. Parth S Dhanani"],
+                    ["Orthopedics", "Dr. Apurv Mehra"],
+                    ["Radiology", "Rajat Jain"],
+                    ["Psychiatry", "Dr. Praveen Tripathi"]
+                ]
+            }
+        }
     },
-    "content": {
-      "image": "/images/blog-02.webp",
-      "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
-      "intro": "FMGE 2025 RESULT: The FMGE exam, a crucial step for overseas medical graduates seeking to practice in India, is an abbreviation for Foreign Medical Graduate Examination. This pan-India exam, conducted by the NBE, is a gateway for candidates who have completed their MBBS degree at overseas universities and institutions. The exam is scheduled for July 2025, with the results set to be announced in August 2025 on NBE's official website, www.natboard.edu.in. /n The board has released the official notification for the FMGE 2025 exam, and the application forms will be available from April 2025 and the last date to apply will be May 2025. Candidates must register with the application fee at the official portal before the deadline. ",
-      "heading": "FMGE 2025 RESULT",
-      "description": "The FMGE exam, conducted under the transparent leadership of the National Board of Examinations, is expected to be held in July 2025. Aspirants can apply for the examination before May 2025 through the official website of NBE. After completing the application process, the conducting body will release the admit card on the candidates' dashboard in July 2025, ensuring a clear and straightforward process. /n As per the notice issued by NBE, the exam will be conducted in two shifts at different centers in India, and the result is expected to be released in August 2025. After the exam, the qualified candidates receive a pass certificate from the National Board of Examinations (NBE), which is essential for further admission processes. Qualifying candidates must apply for provisional registration with the National Medical Commission (NMC) to practice medicine in India.",
-      "imp_dates": {
-        "heading": "FMGE 2025 RESULT Important Dates",
-        "table": [
-          ["Feature", "Detail "],
-          ["FMGE  2025 result date ", "July 2025 (Tentative)"],
-          [
-            "Official website to check FMGE 2025 results ",
-            "www.natboard.edu.in "
-          ],
-          [
-            "Details required to check the FMGE  2025 result",
-            "Registration number and password "
-          ],
-          ["FMGE 2025 registration for practice ", "August 2025 (Tentative)"]
-        ]
-      },
-      "how_to": {
-        "heading": "How to check FMGE 2025 results : ",
-        "description": "Following is the step-by-step guide to download the FMGE scorecard: ",
-        "steps": [
-          "Step 1: Visit the official website of the National Board of Examinations, www.natboard.edu.in ",
-          "Step 2: Navigate to the Results Section and look for a 'Results' section or link.",
-          "Step 3: After this, log in with credentials like roll number and date of birth.",
-          "Step 4: Once logged in, the FMGE scorecard will be displayed on the screen.",
-          "Step 5: Students must download and print the scorecard for future use."
-        ]
-      },
-      "cutt_off": {
-        "heading": "FMGE 2025 Cut-off ",
-        "description": "According to the guidelines prescribed by the board, the FMGE cut-off remains consistent every year without any relaxation to reserved categories. Students must score 50% of the total marks to qualify for the examination and gain admission to practice medicine in India. The FMGE cut-off is based on multiple factors, such as the number of candidates who applied, marks scored by the aspirants, and the exam's difficulty level. /n The FMGE 2025 exam, which is out of 300 marks, requires candidates to score a minimum of 150 to be eligible for the FMGE passing certificate from the NMC. This certificate is a crucial step for candidates applying for registration and obtaining a license to practice medicine in India. After this, candidates must complete a one-year compulsory rotatory internship in India to receive a permanent registration certificate. "
-      },
-      "pass_percentage": {
-        "heading": "FMGE pass percentage year-wise trend:",
-        "table": [
-          ["YEAR", "FMGE PASS PERCENTAGE"],
-          ["2019", "20.7%"],
-          ["2020", "9.94%"],
-          ["2021", "23.91%"],
-          ["2022", "10.61%"],
-          ["2024 June Session", "23% around"],
-          ["2024 December session", "20.57%"]
-        ]
-      },
-      "passing_certificate": {
-        "heading": "How to get FMGE passing certificate : ",
-        "steps": [
-          "Step 1: After the FMGE results are declared, visit the official website of NBE, www.natboard.edu.in ",
-          "Step 2: Qualified students need to download the FMGE entry slip from the NBEMS website by clicking on the notification regarding the distribution of FMGE pass certificates.",
-          "Step 3: Now, enter your roll number and date of birth to download the entry slip. ",
-          "Step 4: Book a prior appointment through the NBEMS Communication Web Portal (CWP) to collect the passing certificate. "
-        ],
-        "note": "Note: Students must bring their original documents and FMGE entry slips to the NBEMS office to receive the passing certificate. ",
-        "second_heading": "What to Do After Receiving the Passing Certificate: ",
-        "description": "After receiving the FMGE passing certificate, students must apply for temporary registration with the Medical Council of India (MCI) and then apply for provisional registration with the relevant State Medical Council to practice Medicine in India. ",
-        "points": [
-          "Once the student has passed the FMGE, they must collect their passing certificate from the National Board of Examinations (NBE). ",
-          "After obtaining the FMGE passing certificate, candidates must apply for temporary registration with the Medical Council of India (MCI). This process involves submitting the necessary documents and fees to the MCI, which will then issue a temporary registration certificate. ",
-          "After applying to the State Medical Council, students will receive an acknowledgment of the receipt of their application for provisional medical registration. ",
-          "If the students are pursuing an internship, they need to apply to the Directorate of Medical Education (DME) for a No Objection Certificate (NOC) to do the internship at the chosen hospital. ",
-          "Once the internship is completed, candidates can apply for permanent registration with the State Medical Council. "
-        ]
-      }
-    }
-  },
-  "fmge-exam-date": {
-    "id": "fmge-exam-date",
-    "meta": {
-      "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
-      "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held tentatively on 10 July 2025.",
-      "permalink": "fmgeadda.com/fmge-exam-date",
-      "keywords": [
-        "FMGE Exam Date 2025",
-        "FMGE Exam Eligibility",
-        "FMGE Prepration tips"
-      ]
+    "fmge-result": {
+        "id": "fmge-result",
+        "meta": {
+            "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
+            "description": "The FMGE  exam will be scheduled in July 2025, and the results are  set to be announced in August 2025 on NBE's official website",
+            "permalink": "fmgeadda.com/fmge-result",
+            "keywords": [
+                "FMGE Exam 2025",
+                "FMGE Exam Result 2025",
+                "FMGE Result"
+            ]
+        },
+        "content": {
+            "image": "/images/blog-02.webp",
+            "title": "FMGE Result 2025: Release Date, Cutoff & How to Download FMGE Result",
+            "intro": "FMGE 2025 RESULT: The FMGE exam, a crucial step for overseas medical graduates seeking to practice in India, is an abbreviation for Foreign Medical Graduate Examination. This pan-India exam, conducted by the NBE, is a gateway for candidates who have completed their MBBS degree at overseas universities and institutions. The exam is scheduled for July 2025, with the results set to be announced in August 2025 on NBE's official website, www.natboard.edu.in. /n The board has released the official notification for the FMGE 2025 exam, and the application forms will be available from April 2025 and the last date to apply will be May 2025. Candidates must register with the application fee at the official portal before the deadline. ",
+            "heading": "FMGE 2025 RESULT",
+            "description": "The FMGE exam, conducted under the transparent leadership of the National Board of Examinations, is expected to be held in July 2025. Aspirants can apply for the examination before May 2025 through the official website of NBE. After completing the application process, the conducting body will release the admit card on the candidates' dashboard in July 2025, ensuring a clear and straightforward process. /n As per the notice issued by NBE, the exam will be conducted in two shifts at different centers in India, and the result is expected to be released in August 2025. After the exam, the qualified candidates receive a pass certificate from the National Board of Examinations (NBE), which is essential for further admission processes. Qualifying candidates must apply for provisional registration with the National Medical Commission (NMC) to practice medicine in India.",
+            "imp_dates": {
+                "heading": "FMGE 2025 RESULT Important Dates",
+                "table": [
+                    ["Feature", "Detail "],
+                    ["FMGE  2025 result date ", "July 2025 (Tentative)"],
+                    [
+                        "Official website to check FMGE 2025 results ",
+                        "www.natboard.edu.in "
+                    ],
+                    [
+                        "Details required to check the FMGE  2025 result",
+                        "Registration number and password "
+                    ],
+                    [
+                        "FMGE 2025 registration for practice ",
+                        "August 2025 (Tentative)"
+                    ]
+                ]
+            },
+            "how_to": {
+                "heading": "How to check FMGE 2025 results : ",
+                "description": "Following is the step-by-step guide to download the FMGE scorecard: ",
+                "steps": [
+                    "Step 1: Visit the official website of the National Board of Examinations, www.natboard.edu.in ",
+                    "Step 2: Navigate to the Results Section and look for a 'Results' section or link.",
+                    "Step 3: After this, log in with credentials like roll number and date of birth.",
+                    "Step 4: Once logged in, the FMGE scorecard will be displayed on the screen.",
+                    "Step 5: Students must download and print the scorecard for future use."
+                ]
+            },
+            "cutt_off": {
+                "heading": "FMGE 2025 Cut-off ",
+                "description": "According to the guidelines prescribed by the board, the FMGE cut-off remains consistent every year without any relaxation to reserved categories. Students must score 50% of the total marks to qualify for the examination and gain admission to practice medicine in India. The FMGE cut-off is based on multiple factors, such as the number of candidates who applied, marks scored by the aspirants, and the exam's difficulty level. /n The FMGE 2025 exam, which is out of 300 marks, requires candidates to score a minimum of 150 to be eligible for the FMGE passing certificate from the NMC. This certificate is a crucial step for candidates applying for registration and obtaining a license to practice medicine in India. After this, candidates must complete a one-year compulsory rotatory internship in India to receive a permanent registration certificate. "
+            },
+            "pass_percentage": {
+                "heading": "FMGE pass percentage year-wise trend:",
+                "table": [
+                    ["YEAR", "FMGE PASS PERCENTAGE"],
+                    ["2019", "20.7%"],
+                    ["2020", "9.94%"],
+                    ["2021", "23.91%"],
+                    ["2022", "10.61%"],
+                    ["2024 June Session", "23% around"],
+                    ["2024 December session", "20.57%"]
+                ]
+            },
+            "passing_certificate": {
+                "heading": "How to get FMGE passing certificate : ",
+                "steps": [
+                    "Step 1: After the FMGE results are declared, visit the official website of NBE, www.natboard.edu.in ",
+                    "Step 2: Qualified students need to download the FMGE entry slip from the NBEMS website by clicking on the notification regarding the distribution of FMGE pass certificates.",
+                    "Step 3: Now, enter your roll number and date of birth to download the entry slip. ",
+                    "Step 4: Book a prior appointment through the NBEMS Communication Web Portal (CWP) to collect the passing certificate. "
+                ],
+                "note": "Note: Students must bring their original documents and FMGE entry slips to the NBEMS office to receive the passing certificate. ",
+                "second_heading": "What to Do After Receiving the Passing Certificate: ",
+                "description": "After receiving the FMGE passing certificate, students must apply for temporary registration with the Medical Council of India (MCI) and then apply for provisional registration with the relevant State Medical Council to practice Medicine in India. ",
+                "points": [
+                    "Once the student has passed the FMGE, they must collect their passing certificate from the National Board of Examinations (NBE). ",
+                    "After obtaining the FMGE passing certificate, candidates must apply for temporary registration with the Medical Council of India (MCI). This process involves submitting the necessary documents and fees to the MCI, which will then issue a temporary registration certificate. ",
+                    "After applying to the State Medical Council, students will receive an acknowledgment of the receipt of their application for provisional medical registration. ",
+                    "If the students are pursuing an internship, they need to apply to the Directorate of Medical Education (DME) for a No Objection Certificate (NOC) to do the internship at the chosen hospital. ",
+                    "Once the internship is completed, candidates can apply for permanent registration with the State Medical Council. "
+                ]
+            }
+        }
     },
-    "content": {
-      "image": "/images/blog-03.webp",
-      "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
-      "intro": "FMGE Exam Date 2025: The conducting authority NBE (National Board of examination) releases the exam date for FMGE. For the 2025-26 session, the FMGE exam is likely to take place in July 2025*. The exam will be conducted in online mode and Computer-Based Test(CBT), where candidates will have to answer 300 questions in 2 parts, Part A and Part B in 300 minutes allotting 1 minute for each question. Additionally, the questions will be Multiple Choice Question(MCQ), containing 4 options out of which candidate needs to choose the right one out. /n FMGE exam is conducted twice a year in June and December. The Exam for December session took place on 12 January 2025, for which the registration period started from 28 October to 18 November 2024. For which the results were announced on 12 February 2025. Meanwhile, for the July session 2025, the registration started from April 2025 and the last date to fill the application form is May 2025 and the results will be announced in August 2025 probably. /n For more updated information about the exam date, instructions, and more, candidates are advised to visit the official website of NBE regularly, www.natboard.edu.in or Collegehai.com.",
-      "heading": "FMGE Exam Date 2025",
-      "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held in July 2025 tentatively for all applying students. Candidates can apply for the exam by visiting the official website of NBE and filling the application form before the deadline. /n The admit cards will be available for the candidates on their dashboards on the NBE website. Aspirants need to login in their exam portal by using their registration credentials like user name and password. In July 2025 admit cards will be available to download and followed by commencement of exam, conducting body will release the answer key and then result. The exam will be conducted in two shifts in August 2025. /n After the commencement of exams and cut-offs candidates will receive a pass certificate from the National Board of Examinations. Later qualifying candidates need to proceed for counselling sessions and further admission process.",
-      "imp_dates": {
-        "heading": "FMGE 2025 Exam Important Dates",
-        "table": [
-          ["EVENTS", "DATES "],
-          ["FMGE 2025 Exam Date", "July 2025"],
-          ["Release of Answer Key", "Last week of July 2025"],
-          ["FMGE Result 2025", "August 2025"]
-        ]
-      },
-      "eligibility": {
-        "heading": "FMGE 2025 Exam Eligibility",
-        "description": "To be eligible for the FMGE exam in 2025, you must check the eligibility criteria before filling out the application form. The eligibility criteria for the exam is mentioned below:",
-        "points": [
-          "Nationality: The candidate must have the citizenship of india since this exam is only applicable for Indian Students.",
-          "Medical Qualification: Candidates should have a primary medical qualification like MBBS from a recognized medical institution outside India. This qualification should be confirmed by the Indian Embassy or any other relevant authority.",
-          "Eligibility Certificate: Candidates who have completed their medical education abroad must have an eligibility certificate issued by the National Medical Commission (NMC) or the Medical Council of India (MCI).",
-          "Completion of Internship: Candidates must have completed their internship as per the guidelines offered by their medical institution."
-        ]
-      },
-      "preparation_tips": {
-        "heading": "FMGE 2025 Exam Preparation Tips",
-        "points": [
-          "Understand the Syllabus: For better preparation for the FMGE exam, first, you need to read and understand the syllabus to simplify your preparation.",
-          "Create a Study Plan: After understanding the whole syllabus, you need to set targets on a daily basis and give a sufficient amount of time to each and every topic for a better study plan.",
-          "Use Reliable Resources: For the preparation, you can take help from the internet, textbooks, and other relevant study materials, and you can make short notes to avoid the burden and confusion.",
-          "Practice Mock Tests: If the student is practicing the mock test daily with consistency, then they can regularize their time and enhance their preparation.",
-          "Revise Regularly: You should always manage your time to revise your previously covered syllabus so that you can improve the quality of your preparation.",
-          "Stay Consistent: To prepare for the exam, you need to show consistency and need to complete the daily target so that it becomes easy for you to complete the syllabus. "
-        ]
-      }
+    "fmge-exam-date": {
+        "id": "fmge-exam-date",
+        "meta": {
+            "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
+            "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held tentatively on 10 July 2025.",
+            "permalink": "fmgeadda.com/fmge-exam-date",
+            "keywords": [
+                "FMGE Exam Date 2025",
+                "FMGE Exam Eligibility",
+                "FMGE Prepration tips"
+            ]
+        },
+        "content": {
+            "image": "/images/blog-03.webp",
+            "title": "FMGE Exam Date 2025: Announce Soon, Registration, Eligibility & Tips ",
+            "intro": "FMGE Exam Date 2025: The conducting authority NBE (National Board of examination) releases the exam date for FMGE. For the 2025-26 session, the FMGE exam is likely to take place in July 2025*. The exam will be conducted in online mode and Computer-Based Test(CBT), where candidates will have to answer 300 questions in 2 parts, Part A and Part B in 300 minutes allotting 1 minute for each question. Additionally, the questions will be Multiple Choice Question(MCQ), containing 4 options out of which candidate needs to choose the right one out. /n FMGE exam is conducted twice a year in June and December. The Exam for December session took place on 12 January 2025, for which the registration period started from 28 October to 18 November 2024. For which the results were announced on 12 February 2025. Meanwhile, for the July session 2025, the registration started from April 2025 and the last date to fill the application form is May 2025 and the results will be announced in August 2025 probably. /n For more updated information about the exam date, instructions, and more, candidates are advised to visit the official website of NBE regularly, www.natboard.edu.in or Collegehai.com.",
+            "heading": "FMGE Exam Date 2025",
+            "description": "The FMGE exam is conducted under the leadership of the National Board of Examinations, and the exam is expected to be held in July 2025 tentatively for all applying students. Candidates can apply for the exam by visiting the official website of NBE and filling the application form before the deadline. /n The admit cards will be available for the candidates on their dashboards on the NBE website. Aspirants need to login in their exam portal by using their registration credentials like user name and password. In July 2025 admit cards will be available to download and followed by commencement of exam, conducting body will release the answer key and then result. The exam will be conducted in two shifts in August 2025. /n After the commencement of exams and cut-offs candidates will receive a pass certificate from the National Board of Examinations. Later qualifying candidates need to proceed for counselling sessions and further admission process.",
+            "imp_dates": {
+                "heading": "FMGE 2025 Exam Important Dates",
+                "table": [
+                    ["EVENTS", "DATES "],
+                    ["FMGE 2025 Exam Date", "July 2025"],
+                    ["Release of Answer Key", "Last week of July 2025"],
+                    ["FMGE Result 2025", "August 2025"]
+                ]
+            },
+            "eligibility": {
+                "heading": "FMGE 2025 Exam Eligibility",
+                "description": "To be eligible for the FMGE exam in 2025, you must check the eligibility criteria before filling out the application form. The eligibility criteria for the exam is mentioned below:",
+                "points": [
+                    "Nationality: The candidate must have the citizenship of india since this exam is only applicable for Indian Students.",
+                    "Medical Qualification: Candidates should have a primary medical qualification like MBBS from a recognized medical institution outside India. This qualification should be confirmed by the Indian Embassy or any other relevant authority.",
+                    "Eligibility Certificate: Candidates who have completed their medical education abroad must have an eligibility certificate issued by the National Medical Commission (NMC) or the Medical Council of India (MCI).",
+                    "Completion of Internship: Candidates must have completed their internship as per the guidelines offered by their medical institution."
+                ]
+            },
+            "preparation_tips": {
+                "heading": "FMGE 2025 Exam Preparation Tips",
+                "points": [
+                    "Understand the Syllabus: For better preparation for the FMGE exam, first, you need to read and understand the syllabus to simplify your preparation.",
+                    "Create a Study Plan: After understanding the whole syllabus, you need to set targets on a daily basis and give a sufficient amount of time to each and every topic for a better study plan.",
+                    "Use Reliable Resources: For the preparation, you can take help from the internet, textbooks, and other relevant study materials, and you can make short notes to avoid the burden and confusion.",
+                    "Practice Mock Tests: If the student is practicing the mock test daily with consistency, then they can regularize their time and enhance their preparation.",
+                    "Revise Regularly: You should always manage your time to revise your previously covered syllabus so that you can improve the quality of your preparation.",
+                    "Stay Consistent: To prepare for the exam, you need to show consistency and need to complete the daily target so that it becomes easy for you to complete the syllabus. "
+                ]
+            }
+        }
     }
-  }
 }
