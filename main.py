@@ -1,8 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from models import Post, User
-from fake_data import generate_fake_data
-from datetime import datetime
+import json
+import os
 
 app = FastAPI(title="Blog API")
 
@@ -15,19 +14,28 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize fake data
-posts, users = generate_fake_data()
-
 @app.get("/")
 async def root():
     return {"message": "Welcome to the Blog API"}
 
 @app.get("/posts")
 async def get_posts():
-    import json
-    with open("jsonfiles/blog.json") as f:
-        data = json.load(f)
-    return data
+    try:
+        # Get the current directory
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        json_path = os.path.join(current_dir, "jsonfiles", "blog.json")
+        
+        # Check if file exists
+        if not os.path.exists(json_path):
+            raise HTTPException(status_code=404, detail="blog.json file not found")
+            
+        with open(json_path) as f:
+            data = json.load(f)
+        return data
+    except json.JSONDecodeError as e:
+        raise HTTPException(status_code=500, detail=f"Invalid JSON format: {str(e)}")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
 
 
 if __name__ == "__main__":
